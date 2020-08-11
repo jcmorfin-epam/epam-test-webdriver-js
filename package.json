@@ -1,0 +1,18 @@
+{
+  "name": "epam-test-webdriver-js",
+  "version": "1.0.0",
+  "description": "Testing EPAM page with webdriverjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jcmorfin-epam/epam-test-webdriver-js"
+  },
+  "author": "Carlos Morfín",
+  "license": "ISC",
+  "dependencies": {
+    "selenium-webdriver": "^4.0.0-alpha.7"
+  }
+}
